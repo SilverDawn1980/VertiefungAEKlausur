@@ -1,0 +1,14 @@
+Sauberes MVC - 20 Punkte
+------------------------
+Sauberes MVC impliziert die Verwendung entsprechender Patterns,
+die hierfür notwendig sind.
+
+Auslagerung der ButtonErzeugung in ein Factory Pattern - 10 Punkte
+
+Tests :
+Keypad : 5 Punkte
+ClearButton : 5 Punkte
+
+Rechenarten : 12 Punkte für einen gelösten + 6 Punkte für jeden weiteren.
+
+"Fachgespräch -> Erklären ihres Codes" - 20 Punkte
